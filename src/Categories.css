@@ -1,0 +1,17 @@
+div.div_categories {
+    width: 15%;
+    border-radius: 5%;
+}
+ul.ul_categories {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+}
+.li_categories a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
